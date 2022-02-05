@@ -19,7 +19,7 @@ Agregué la funcionalidad más abajo en el archivo html.
 
 En el "head" también incluí la siguiente línea:
   
-  "<meta name="viewport" content="width=device-width, initial-scale=1.0">"
+  ![image](https://user-images.githubusercontent.com/97979648/152624757-d738d73a-846f-4492-a127-335613e99763.png)
 
 Ello es para hacer mi página web responsiva, es decir que se vea bien en cualquier dispositivo. 
   
